@@ -1,0 +1,10 @@
+# Nova Fresh AI Voice Bot - System Requirements
+
+1. Modern Web Browser: Google Chrome (Strongly recommended for Web Speech API stability).
+2. Local Web Server: 
+   - XAMPP (Place project in htdocs)
+   - OR VS Code "Live Server" extension
+   - OR npm "live-server"
+3. Active Internet Connection: Required for the Web Speech API (STT) and Groq AI API.
+4. Microphone: Hardware microphone with browser permission enabled.
+5. Groq API Key: Get one from console.groq.com and paste it into app.js.
